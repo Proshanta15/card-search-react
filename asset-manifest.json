@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/card-search-react/static/css/main.61c140f1.chunk.css",
+    "main.js": "/card-search-react/static/js/main.561809f1.chunk.js",
+    "main.js.map": "/card-search-react/static/js/main.561809f1.chunk.js.map",
+    "runtime-main.js": "/card-search-react/static/js/runtime-main.523e6209.js",
+    "runtime-main.js.map": "/card-search-react/static/js/runtime-main.523e6209.js.map",
+    "static/css/2.081f420c.chunk.css": "/card-search-react/static/css/2.081f420c.chunk.css",
+    "static/js/2.b360df37.chunk.js": "/card-search-react/static/js/2.b360df37.chunk.js",
+    "static/js/2.b360df37.chunk.js.map": "/card-search-react/static/js/2.b360df37.chunk.js.map",
+    "index.html": "/card-search-react/index.html",
+    "static/css/2.081f420c.chunk.css.map": "/card-search-react/static/css/2.081f420c.chunk.css.map",
+    "static/css/main.61c140f1.chunk.css.map": "/card-search-react/static/css/main.61c140f1.chunk.css.map",
+    "static/js/2.b360df37.chunk.js.LICENSE.txt": "/card-search-react/static/js/2.b360df37.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/card-search-react/static/media/Averta-SemiBold.2ecbb48c.woff2",
+    "static/media/boltIcon.890e0647.svg": "/card-search-react/static/media/boltIcon.890e0647.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.523e6209.js",
+    "static/css/2.081f420c.chunk.css",
+    "static/js/2.b360df37.chunk.js",
+    "static/css/main.61c140f1.chunk.css",
+    "static/js/main.561809f1.chunk.js"
+  ]
+}
